@@ -8,3 +8,7 @@ prefiero pnpm pero tambien puedes npm
 ```bash
 pnpm install
 ```
+o puedes usar npm
+```bash
+npm install
+```
